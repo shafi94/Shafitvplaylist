@@ -1,0 +1,169 @@
+    #EXTM3U
+
+    #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_of_ATN_Bangla.svg” group-title=”Bangla”, ATN BANGLA  
+http://cdn1.amrbd.com:8082/ATN.BANGLA.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/4/4b/ATN_News_logo.svg” group-title=”Bangla”, ATN NEWS  
+http://cdn1.amrbd.com:8082/ATN.NEWS.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/9/91/Channel24logo.svg” group-title=”Bangla”, CHANNEL 24  
+http://cdn1.amrbd.com:8082/CHANNEL.24.HD//index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg” group-title=”Bangla”, CHANNEL I  
+http://cdn1.amrbd.com:8082/CHANNEL.I.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/5d/Colors_Bangla_Cinema_Logo_%282024%29.png” group-title=”Bangla”, COLORS BANGLA CINEMA
+http://cdn1.amrbd.com:8082/COLORS.BANGLA.CINEMA/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png” group-title=”Bangla”, COLORS BANGLA  
+http://cdn1.amrbd.com:8082/COLORS.BANGLA.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/4/45/Enterr10_Bangla_Logo_%282020%29.png” group-title=”Bangla”, ENTER10 BANGLA
+http://cdn1.amrbd.com:8082/ENTER10.BANGLA/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_GTV_%28Bangladesh%29.svg” group-title=”Bangla”, GAZI TV  
+http://cdn1.amrbd.com:8082/GAZI.TV.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/c/c1/Independent_Television_Logo.svg” group-title=”Bangla”, INDEPENDENT TV
+http://cdn1.amrbd.com:8082/INDEPENDENT.TV/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png” group-title=”Bangla”, JALSHA MOVIES  
+http://cdn1.amrbd.com:8082/JALSHA.MOVIES.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/f/fe/Jamuna_TV_logo.svg” group-title=”Bangla”, JAMUNA TV
+http://cdn1.amrbd.com:8082/JAMUNA.TV/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_GTV_%28Bangladesh%29.svg” group-title=”Bangla”, MASRANGA TV  
+http://cdn1.amrbd.com:8082/MASRANGA.TV.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/9/98/Logo_of_Nagorik_TV.svg” group-title=”Bangla”, NAGORIK TV  
+http://cdn1.amrbd.com:8082/NAGORIK.TV.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/bn/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg” group-title=”Bangla”, SOMOY TV  
+http://cdn1.amrbd.com:8082/SOMOY.TV.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/53/Sony_Aath_logo.svg” group-title=”Bangla”, SONY AAT
+http://cdn1.amrbd.com:8082/SONY.AAT/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png” group-title=”Bangla”, STAR JALSHA  
+http://cdn1.amrbd.com:8082/STAR.JALSHA.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/e/e4/Sun_Bangla_Logo_%282026%29.jpg” group-title=”Bangla”, SUN BANGLA  
+http://cdn1.amrbd.com:8082/SUN.BANGLA.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_Bangla_Cinema_2025.svg” group-title=”Bangla”, ZEE BANGLA CINEMA
+http://cdn1.amrbd.com:8082/ZEE.BANGLA.CINEMA/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg” group-title=”Bangla”, ZEE BANGLA  
+http://cdn1.amrbd.com:8082/ZEE.BANGLA.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/de/5/54/Al_Jazeera_HD_2021_wei%C3%9F.svg” group-title=”English”, ALJAZEERA  
+http://cdn1.amrbd.com:8082/ALJAZEERA.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/9/95/Xplore_Logo_2023.svg” group-title=”English”, XPLOR  
+http://cdn1.amrbd.com:8082/XPLOR.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/0/07/Animal_Planet_logo.svg” group-title=”English”, ANIMAL PLANET  
+http://cdn1.amrbd.com:8082/ANIMAL.PLANET.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/53/AXN_HD_Logo_2015.svg” group-title=”English”, AXN  
+http://cdn1.amrbd.com:8082/AXN.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_Earth.svg” group-title=”English”, BBC Earth  
+http://cdn1.amrbd.com:8082/BBC.Earth.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg” group-title=”English”, DISCOVERY  
+http://cdn1.amrbd.com:8082/DISCOVERY.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg” group-title=”English”, HISTORY TV 18  
+http://cdn1.amrbd.com:8082/HISTORY.TV.18.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/c/c6/Lotus%27s_Logo.svg” group-title=”English”, Lotus TV  
+http://cdn1.amrbd.com:8082/Lotus.TV.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/0/0d/Love_Nature_logo_%282025%29.svg” group-title=”English”, LOVE NATURE  
+http://cdn1.amrbd.com:8082/LOVE.NATURE.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg” group-title=”English”, MN PLUS  
+http://cdn1.amrbd.com:8082/MN.PLUS.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/3/3a/MNCTV_MNC-Group.svg” group-title=”English”, MNX  
+http://cdn1.amrbd.com:8082/MNX.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_Film_Now_%282018%29.png” group-title=”English”, MOVIES NOW  
+http://cdn1.amrbd.com:8082/MOVIES.NOW.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/6/6a/National-Geographic-Logo.svg” group-title=”English”, NATGEO  
+http://cdn1.amrbd.com:8082/NATGEO.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/1/17/Logo_Nat_Geo_Wild_HD.svg” group-title=”English”, NATGEO WILD  
+http://cdn1.amrbd.com:8082/NATGEO.WILD.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/d/d1/Romance_TV_Logo_10.2019.svg” group-title=”English”, ROMEDY NOW
+http://cdn1.amrbd.com:8082/ROMEDY.NOW/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_Earth.svg” group-title=”English”, SONY BBC EARTH  
+http://cdn1.amrbd.com:8082/SONY.BBC.EARTH.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/b/bc/Sony_Pictures_Home_Entertainment_logo.svg” group-title=”English”, SONY PIX  
+http://cdn1.amrbd.com:8082/SONY.PIX.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg” group-title=”English”, STAR MOVIES  
+http://cdn1.amrbd.com:8082/STAR.MOVIES.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg” group-title=”English”, STAR MOVIES SEL  
+http://cdn1.amrbd.com:8082/STAR.MOVIES.SEL.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TLC_HD.svg” group-title=”English”, TLC  
+http://cdn1.amrbd.com:8082/TLC.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png” group-title=”English”, TRAVELXP  
+http://cdn1.amrbd.com:8082/TRAVELXP.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/9/9b/Zee_Caf%C3%A9_logo.png” group-title=”Hindi”, ZEE CAFE  
+http://cdn1.amrbd.com:8082/ZEE.CAFE.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/7/70/ANT1_logo.svg” group-title=”Hindi”, ANT PICTURS  
+http://cdn1.amrbd.com:8082/ANT.PICTURS.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/a/aa/Colors_Cineplex_Superhits_logo.jpg” group-title=”Hindi”, COLORS CINEPLEX  
+http://cdn1.amrbd.com:8082/COLORS.CINEPLEX.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg” group-title=”Hindi”, COLORS  
+http://cdn1.amrbd.com:8082/COLORS.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png” group-title=”Hindi”, GEO NEWS  
+http://cdn1.amrbd.com:8082/GEO.NEWS.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/c/c8/Slam%21TV_logo.svg” group-title=”Hindi”, HUM MASALA TV
+http://cdn1.amrbd.com:8082/HUM.MASALA.TV/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_Entertainment_Television_logo_1995.svg” group-title=”Hindi”, SONY ENT  
+http://cdn1.amrbd.com:8082/SONY.ENT.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/1/10/Sony_MAX.svg” group-title=”Hindi”, SONY MAX  
+http://cdn1.amrbd.com:8082/SONY.MAX.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/8/85/Star_Television_logo.svg” group-title=”Hindi”, STAR BHARAT  
+http://cdn1.amrbd.com:8082/STAR.BHARAT.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg” group-title=”Hindi”, STAR GOLD  
+http://cdn1.amrbd.com:8082/STAR.GOLD.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg” group-title=”Hindi”, STAR GOLD SEL  
+http://cdn1.amrbd.com:8082/STAR.GOLD.SEL.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/7/71/Star%2B_logo.svg” group-title=”Hindi”, STAR PLUS  
+http://cdn1.amrbd.com:8082/STAR.PLUS.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/9/92/Zee_Cinema_2025.svg” group-title=”Hindi”, ZEE CINEMA  
+http://cdn1.amrbd.com:8082/ZEE.CINEMA.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/4/49/Zing_logo.svg” group-title=”Hindi”, ZING MUSIC
+http://cdn1.amrbd.com:8082/ZING.MUSIC/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/1/11/Zoom_Logo_2022.svg” group-title=”Hindi”, ZOOM MUSIC
+http://cdn1.amrbd.com:8082/ZOOM.MUSIC/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/9/93/Masjid_Mujahidin_Madani_TV.jpg” group-title=”Islamic”, MADANI TV  
+http://cdn1.amrbd.com:8082/MADANI.TV.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png” group-title=”Islamic”, PEACE TV BANGLA  
+http://cdn1.amrbd.com:8082/PEACE.TV.BANGLA.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/6/65/ETV_Bal_Bharat.jpg” group-title=”Kids”, ETV BAL BHARAT
+http://cdn1.amrbd.com:8082/ETV.BAL.BHARAT/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_HD_logo.svg” group-title=”Kids”, CARTON NETWORK  
+http://cdn1.amrbd.com:8082/CARTON.NETWORK.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png” group-title=”Kids”, DURANTA TV  
+http://cdn1.amrbd.com:8082/DURANTA.TV.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/2/20/Bollywood_Hungama_logo.svg” group-title=”Kids”, HUNGAMA
+http://cdn1.amrbd.com:8082/HUNGAMA/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/7/71/Nickelodeon_2023_logo.svg” group-title=”Kids”, NICK
+http://cdn1.amrbd.com:8082/NICK/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/e/e0/Nick_Jr._logo_2023.svg” group-title=”Kids”, NICK JR
+http://cdn1.amrbd.com:8082/NICK.JR/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/4/49/POGO-logo.svg” group-title=”Kids”, POGO
+http://cdn1.amrbd.com:8082/POGO/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/1/1f/Sonic_The_Hedgehog.svg” group-title=”Kids”, SONIC
+http://cdn1.amrbd.com:8082/SONIC/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/6/60/Sony_YAY%21_Logo_%282022%29.png” group-title=”Kids”, SONY YAY
+http://cdn1.amrbd.com:8082/SONY.YAY/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/9/9c/Hungama_TV.svg” group-title=”Kids”, SUPER HUNGAMA
+http://cdn1.amrbd.com:8082/SUPER.HUNGAMA/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/4/4c/T_Sports_logo.svg” group-title=”Sports”, T SPORTS  
+http://cdn1.amrbd.com:8082/T-SPORTS-HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/f/f9/Sky_Sport_Football_HD_-_Logo_2020.svg” group-title=”Sports”, A SPORTS  
+http://cdn1.amrbd.com:8082/A.SPORTS.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_HD_since_2015.svg” group-title=”Sports”, EUROSPORTS  
+http://cdn1.amrbd.com:8082/EUROSPORTS.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_SportTV.svg” group-title=”Sports”, FAST SPORTS  
+http://cdn1.amrbd.com:8082/FAST.SPORTS.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/f/fb/Golf_Channel_logo_2025.svg” group-title=”Sports”, GOLF SPORTS
+http://cdn1.amrbd.com:8082/GOLF.SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/7/79/PTV_logo_2017.svg” group-title=”Sports”, PTV SPORTS  
+http://cdn1.amrbd.com:8082/PTV-SPORTS-HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/c/cd/Sony_Sports_Network.svg” group-title=”Sports”, SONY SPORTS 1 
+http://cdn1.amrbd.com:8082/SONY.SPORTS.1HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/c/cd/Sony_Sports_Network.svg” group-title=”Sports”, SONY SPORTS2  
+http://cdn1.amrbd.com:8082/SONY.SPORTS2.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/c/cd/Sony_Sports_Network.svg” group-title=”Sports”, SONY SPORTS 3
+http://cdn1.amrbd.com:8082/SONY.SPORTS.3/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/c/cd/Sony_Sports_Network.svg” group-title=”Sports”, SONY SPORTS 4
+http://cdn1.amrbd.com:8082/SONY.SPORTS.4/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/c/cd/Sony_Sports_Network.svg” group-title=”Sports”, SONY SPORTS 5 
+http://cdn1.amrbd.com:8082/SONY-SPORTS.5HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/c/cd/Sony_Sports_Network.svg” group-title=”Sports”, STAR SPORTS SEL1  
+http://cdn1.amrbd.com:8082/STAR.SPORTS-SEL1.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/7/73/Star_Sports_1_HD.png” group-title=”Sports”, STAR SPORTS1  
+http://cdn1.amrbd.com:8082/STAR.SPORTS1.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/7/73/Star_Sports_1_HD.png” group-title=”Sports”, STAR SPORTS2  
+http://cdn1.amrbd.com:8082/STAR.SPORTS2.HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/7/73/Star_Sports_1_HD.png” group-title=”Sports”, STAR SPORTS 3
+http://cdn1.amrbd.com:8082/STAR-SPORTS.3/index.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png” group-title=”Sports”, STAR SPORTS SEL 2  
+http://cdn1.amrbd.com:8082/STAR.SPORTS.SEL.2.HD/index.m3u8
+
